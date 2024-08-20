@@ -42,6 +42,23 @@ The dataset provided includes around 9000 data points with various attributes su
 
 This repository is intended for submission purposes only. The dataset (CSV file) used for this project is not included in this repository. Access to this repository is provided to the team members and the intended audience at IIIT-B. Discretion is advised for anyone accessing this repository beyond the intended audience.
 
+## Usage
+
+To run the notebook, follow these steps:
+1. Clone the repository:
+```
+git clone https://github.com/Jaisrepo/Lead-Scoring-Case-Study
+```
+2. Navigate to the repository directory:
+```
+cd leading_score_case_study
+```
+3. Start the Jupyter Notebook:
+```
+jupyter notebook
+```
+4. Open the `Lead Scoring Case Study - Isaac Martin, Jai Ganesh G & Jaydeep Gokhale.ipynb` notebook and run the cells.
+
 ## Team
 
 - Isaac Martin
